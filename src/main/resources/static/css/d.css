@@ -1,8 +1,76 @@
 .bottom{
     position: fixed;
-    bottom: 15px;
+    bottom: 5%;
+    width: 100%;
 }
 .bottom-button{
     position: fixed;
-    bottom: 100px;
+    bottom: 25%;
+    width: 100%;
+}
+.title{
+    height: 100px;
+}
+.title-text{
+    line-height: 100px;
+    text-align: center;
+    font-size: 25px;
+}
+.form-area{
+    width: 100%;
+}
+.choose{
+    line-height: 350px;
+}
+.imgArea{
+    width: 300px;
+    height: 300px;
+    margin-left: 30px;
+    margin-top: 30px;
+    border: 1px solid transparent;
+    border-radius: 40px;
+
+}
+.right{
+    font-size: 60px;
+    color: #ace2fc;
+    text-align: center;
+    line-height: 350px;
+}
+.result{
+    color: #575757;
+    font-size: 35px;
+    margin-left: 15px;
+    margin-top: 15px;
+    line-height: 300px;
+}
+.result-button{
+    text-align: center;
+}
+.circle1,
+.circle2,
+.circle3,
+.circle4,
+.circle5{
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 100px;
+}
+.circle2{
+    background-color: #2fbcff;
+}
+.circle1{
+     background-color: #54c5fb;
+}
+.circle5{
+    background-color:#73cdf8;
+}
+.circle3{
+    background-color: #ace2fc;
+}
+.circle4{
+    background-color: #caeeff;
 }
